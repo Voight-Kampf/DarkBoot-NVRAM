@@ -20,7 +20,7 @@ which has an excellent explanation. They're pretty simple yet incredibly powerfu
 ### How to use:
 
 Copy the com.dabrain13.darkboot.plist file into your /Library/LaunchDaemons folder.
-Note: this is NOT the same as your <username>/Library/LaunchDaemons folder.
+Note: this is NOT the same as your user_name/Library/LaunchDaemons folder.
 
 If you want, you can do that in terminal. So assuming the file is in your Downloads folder:
 
